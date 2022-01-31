@@ -7,6 +7,10 @@ body {
     margin: auto;
 }
 .header {
+    min-height: 100vh;
+    background: url('../img/bg.jpg');
+}
+.navbar {
     display: flex;
     align-items: center;
     padding-top: 30px;
